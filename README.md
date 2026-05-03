@@ -34,8 +34,8 @@ The portfolio is designed to demonstrate job-ready skills for **SOC Analyst**, *
 
 |Day|Project|Key Skills|
 |-|-|-|
-|[Day 01](./day-01-splunk-failed-login-dashboard)|Failed Login Dashboard|SPL · timechart · stats · visualisation|
-|[Day 06](./day-06-splunk-bruteforce-detection)|Brute-Force Detection Rule|Alert scheduling · threshold tuning · cron|
+|[Day 01](./day-01-failed-login-dashboard)|Failed Login Dashboard|SPL · timechart · stats · visualisation|
+|[Day 06](./day-06-splunk-brute-force-detection)|Brute-Force Detection Rule|Alert scheduling · threshold tuning · cron|
 |[Day 10](./day-10-splunk-port-scan-detection)|Port Scan Detection|Firewall log analysis · rate-based detection|
 |[Day 16](./day-16-splunk-threat-hunting-powershell)|PowerShell Threat Hunting|T1059.001 · encoded commands · download cradles|
 |[Day 22](./day-22-splunk-soc-dashboard)|Full SOC Operations Dashboard|Multi-source · 6 panels · auth/network/endpoint|
@@ -47,12 +47,12 @@ The portfolio is designed to demonstrate job-ready skills for **SOC Analyst**, *
 
 |Day|Project|Key Skills|
 |-|-|-|
-|[Day 02](./day-02-wireshark-http-capture)|HTTP Traffic Capture|Live capture · TCP streams · HTTP analysis|
+|[Day 02](./day-02-wireshark-http-analysis)|HTTP Traffic Capture|Live capture · TCP streams · HTTP analysis|
 |[Day 07](./day-07-wireshark-dns-analysis)|DNS Analysis|NXDOMAIN · DGA domains · DNS filtering|
-|[Day 09](./day-09-wireshark-malware-c2)|Malware C2 PCAP Analysis|Domain fronting · C2 traffic · IOC extraction|
+|[Day 09](./day-09-wireshark-malware-c2-analysis)|Malware C2 PCAP Analysis|Domain fronting · C2 traffic · IOC extraction|
 |[Day 14](./day-14-wireshark-arp-analysis)|ARP Storm Analysis|ARP protocol · storm vs poisoning · Cisco|
 |[Day 19](./day-19-wireshark-file-extraction)|File Extraction from PCAP|Export Objects · HTTP/FTP · DFIR recovery|
-|[Day 28](./day-28-wireshark-intrusion-analysis)|WARMCOOKIE Intrusion Analysis|BITS abuse · C2 beaconing · SMB2 recon|
+|[Day 28](./day-28-warmcookie-analysis)|WARMCOOKIE Intrusion Analysis|BITS abuse · C2 beaconing · SMB2 recon|
 
 \---
 
@@ -61,10 +61,10 @@ The portfolio is designed to demonstrate job-ready skills for **SOC Analyst**, *
 |Day|Project|Key Skills|
 |-|-|-|
 |[Day 03](./day-03-python-log-parser)|Apache Log Parser|Regex · suspicious pattern detection · reporting|
-|[Day 08](./day-08-python-ip-reputation)|IP Reputation Checker|VirusTotal API · threat scoring · JSON output|
+|[Day 08](./day-08-ip-reputation-checker)|IP Reputation Checker|VirusTotal API · threat scoring · JSON output|
 |[Day 13](./day-13-python-port-scanner)|Multi-threaded Port Scanner|Socket · threading · service identification|
-|[Day 17](./day-17-python-ioc-extractor)|IOC Extractor|10-category regex · false positive filtering · JSON|
-|[Day 27](./day-27-python-alert-enrichment)|Alert Enrichment Tool|WHOIS + VirusTotal · multi-source · verdicts|
+|[Day 17](./day-17-ioc-extractor)|IOC Extractor|10-category regex · false positive filtering · JSON|
+|[Day 27](./day-27-alert-enrichment)|Alert Enrichment Tool|WHOIS + VirusTotal · multi-source · verdicts|
 
 \---
 
